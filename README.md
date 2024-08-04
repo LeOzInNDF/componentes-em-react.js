@@ -1,9 +1,9 @@
 ### Aprendendo a criar componentes com react
 
--Criar um componente;
--Exportar um componente;
--Importar um componente;
--Estilizar um componente;
+<br>-Criar um componente;
+<br>-Exportar um componente;
+<br>-Importar um componente;
+<br>-Estilizar um componente;
 
 # O que foi usado no projeto.
 
