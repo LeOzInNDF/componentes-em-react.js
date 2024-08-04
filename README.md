@@ -1,11 +1,11 @@
-Aprendendo a criar componentes com react
+### Aprendendo a criar componentes com react
 
 -Criar um componente;
 -Exportar um componente;
 -Importar um componente;
 -Estilizar um componente;
 
-# O que foi usado nos projetos
+# O que foi usado no projeto.
 
 ### Frontend
   - React.js
